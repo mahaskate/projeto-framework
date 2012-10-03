@@ -1,0 +1,7 @@
+body{background-color: #f7f7f7;}
+.alert-error{ background: rgba(255, 180, 180, .9);}
+.alert-success{ background: rgba(190, 255, 180, .9);}
+.container-flash {width:600px;margin-top:20px;position:fixed;left:50%;margin-left:-300px;z-index:10;}
+input.txtLogin{height: 30px; width: 300px;}
+.formLogin{margin-left:200px;width:600px;}
+input.btnCriarPerfil{width: 310px;height: 50px;}
